@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1f21b0f.css",
+    "main.js": "/static/js/main.fe0bee72.js",
+    "static/media/practice.png": "/static/media/practice.d76e4a98ac25898dd647.png",
+    "static/media/landing.jpeg": "/static/media/landing.48988ffed4b1cb3975f0.jpeg",
+    "static/media/wallet.jpg": "/static/media/wallet.8adc92cfaa49c896d6c0.jpg",
+    "index.html": "/index.html",
+    "main.a1f21b0f.css.map": "/static/css/main.a1f21b0f.css.map",
+    "main.fe0bee72.js.map": "/static/js/main.fe0bee72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f21b0f.css",
+    "static/js/main.fe0bee72.js"
+  ]
+}
